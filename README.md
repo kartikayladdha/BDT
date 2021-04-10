@@ -1,5 +1,5 @@
 # BDT
-This repository contains all the labs for Big data Technology.
+This repository contains all the lab assignments for Big Data Technology subject during Semester 6th of our Btech in Data Science(Business Analytics) 2018 - 2022.
 
 Lab 1 - Map Reduce in Java
 
@@ -11,8 +11,7 @@ Lab 4 - Pyspark implementation
 
 Lab 5- Movie Recommendations using Pyspark
 
-BY-
+Submitted By-
 
-Vidhi Kapoor J021
-
-Kartikay Laddha J025
+**Vidhi Kapoor - J021
+Kartikay Laddha - J025**
