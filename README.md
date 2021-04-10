@@ -9,7 +9,7 @@ Lab 3 - Big Dask Tutorial
 
 Lab 4 - Pyspark implementation
 
-Lab 5- Movie Recommendations on Pyspark
+Lab 5- Movie Recommendations using Pyspark
 
 BY-
 
