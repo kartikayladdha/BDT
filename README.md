@@ -3,7 +3,7 @@ This repository contains all the lab assignments for Big Data Technology subject
 
 Lab 1 - Map Reduce in Java - Using eclipse on cloudera, we counted the number of words in a paragraph.
 
-Lab 2 - Map Reduce in Hive - Uding Hive, number of words in the paragraph was counted.
+Lab 2 - Map Reduce in Hive - Using Hive, number of words in the paragraph was counted.
 
 Lab 3 - Big Dask Tutorial - Some examples to compare pandas and Dask.
 
